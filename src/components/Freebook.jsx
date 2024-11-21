@@ -1,15 +1,18 @@
 import React, { useEffect, useState } from "react";
-
+import list from '../../public/list.json'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 
-import axios from "axios";
+//import axios from "axios";
 
 import Cards from "./Cards";
 function Freebook() {
   const [book, setBook] = useState([]);
-  useEffect(() => {
+
+
+  //this code for backend and database
+  {/*useEffect(() => {
     const getBook = async () => {
       try {
         const res = await axios.get("http://localhost:4001/book");
@@ -22,6 +25,13 @@ function Freebook() {
       }
     };
     getBook();
+  }, []);*/}
+
+  
+  //this code for temporary rendering
+  useEffect(() => {
+    const data = list;
+    setBook(data)
   }, []);
 
   var settings = {

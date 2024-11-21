@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"lorem ipsum If you intend to use the URL of  ",
+        "price":250,
+        "category":"free",
+        "image":"https://img.freepik.com/premium-photo/big-black-organizer-large-book-isolated-grey-background_652606-3054.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    },
+     {
+        "id":2,
+        "name":"sport book",
+        "title":"lorem ipsum If you intend to use the URL of ",
+        "price":160,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/open-book-vector_23-2147690155.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    },
+     {
+        "id":3,
+        "name":"entertainment book",
+        "title":"lorem ipsum If you intend to use the URL of ",
+        "price":320,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/open-book-with-mystic-bright-light_1284-12772.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    },
+     {
+        "id":4,
+        "name":"jungle book",
+        "title":"slorem ipsum If you intend to use the URL of ",
+        "price":200,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/book-mockup-with-red-ribbon_23-2147518775.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    },
+     {
+        "id":5,
+        "name":"Motivational book",
+        "title":"lorem ipsum If you intend to use the URL of ",
+        "price":750,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    },
+     {
+        "id":6,
+        "name":"story book",
+        "title":"sfgthhyjjjyrgrgeregrgrgre",
+        "price":100,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/blank-book-mockup_1085-529.jpg?ga=GA1.1.426622360.1732105987&semt=ais_hybrid"
+    }
+]
